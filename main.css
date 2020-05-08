@@ -1,0 +1,42 @@
+body{
+  background-color: #3f818a;
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+
+
+
+.container-fluid{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 28px;
+    color: rgba(100,,10, 18, 0.1);
+    font-style: oblique;
+    font-weight: 500;
+}
+
+
+#new-quote, #tweet-quote{
+
+  font-family: cursive;
+  margin-top: 14%;
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: rgba(240, 201,10,0.3);
+}
+
+
+
+  #quote-box{
+ background-color:rgba(254, 201,41,0.1);
+font-family: monospace;
+font-weight: bold;
+border: 1px solid black;
+border-radius: 25px 50px 25px 50px;
+padding: 55px;
+margin-top: 5%;
+height: 450px;
+margin-left: 12%;
+margin-right: 12%;
+  }
